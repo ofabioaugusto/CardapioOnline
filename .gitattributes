@@ -1,3 +1,3 @@
-*.js linguist-language=Php
+*.Hack linguist-language=Php
 *.css linguist-language=Php
 *.html linguist-language=Php
