@@ -26,11 +26,11 @@ Concluído
 ## Telas
 
 <p align="center">
-<img src="./img/splash_screen.jpg" width="250" height="500"/>
-<img src="./img/login.jpg" width="250" height="500"/>
-<img src="./img/register_user.jpg" width="250" height="500"/>
-<img src="./img/register_service.jpg" width="250" height="500"/>
-<img src="./img/learn_subject.jpg" width="250" height="500"/>
+<img src="./src/01.png" width="500" height="500"/>
+<img src="./src/02.png" width="500" height="500"/>
+<img src="./src/03.png" width="500" height="500"/>
+<img src="./src/04.png" width="250" height="500"/>
+<img src="./src/05.png" width="250" height="500"/>
 </p>
 
 **Proibida a distribuição ou revenda desse material.**
