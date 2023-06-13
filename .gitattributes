@@ -1,2 +1,2 @@
-* linguist-vendored
-*.hack linguist-vendored=false
+*.handlebars linguist-language= JavaScript
+*.css linguist-language= JavaScript
