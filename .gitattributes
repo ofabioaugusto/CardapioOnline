@@ -1,2 +1,2 @@
-*.php linguist-language= JavaScript
-*.css linguist-language= JavaScript
+*.rack linguist-vendored
+*.htm linguist-vendored
