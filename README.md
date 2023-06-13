@@ -26,12 +26,23 @@ Concluído
 ## Telas
 
 <div align="center">
-  
-![Imagem 01](./src/01.png) | ![Imagem 02](./src/02.png) | ![Imagem 03](./src/03.png)
-:-------------------------:|:-------------------------:|:-------------------------:
-![Imagem 04](./src/04.png) | ![Imagem 05](./src/05.png) |
-  
+  <a href="./src/01.png">
+    <img src="./src/01.png" alt="Imagem 01" width="250" height="250" class="img-thumbnail"/>
+  </a>
+  <a href="./src/02.png">
+    <img src="./src/02.png" alt="Imagem 02" width="250" height="250" class="img-thumbnail"/>
+  </a>
+  <a href="./src/03.png">
+    <img src="./src/03.png" alt="Imagem 03" width="250" height="250" class="img-thumbnail"/>
+  </a>
+  <a href="./src/04.png">
+    <img src="./src/04.png" alt="Imagem 04" width="250" height="250" class="img-thumbnail"/>
+  </a>
+  <a href="./src/05.png">
+    <img src="./src/05.png" alt="Imagem 05" width="250" height="250" class="img-thumbnail"/>
+  </a>
 </div>
+
 
 
 **Proibida a distribuição ou revenda desse material.**
