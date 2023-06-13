@@ -1,2 +1,2 @@
-*.rack linguist-vendored
-*.htm linguist-vendored
+*.h linguist-language=Objective-C
+*.p linguist-language=Objective-C
