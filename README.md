@@ -25,12 +25,13 @@ Concluído
 
 ## Telas
 
-<p align="center">
-<img src="./src/01.png" width="500" height="500"/>
-<img src="./src/02.png" width="500" height="500"/>
-<img src="./src/03.png" width="500" height="500"/>
-<img src="./src/04.png" width="250" height="500"/>
-<img src="./src/05.png" width="250" height="500"/>
-</p>
+<div align="center">
+  
+![Imagem 01](./src/01.png) | ![Imagem 02](./src/02.png) | ![Imagem 03](./src/03.png)
+:-------------------------:|:-------------------------:|:-------------------------:
+![Imagem 04](./src/04.png) | ![Imagem 05](./src/05.png) |
+  
+</div>
+
 
 **Proibida a distribuição ou revenda desse material.**
